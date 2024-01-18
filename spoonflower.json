@@ -1,0 +1,308 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"ca-app-pub-3940256099942544/2247696110",
+      "main_ads_rewards":"ca-app-pub-3940256099942544/5224354917",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"ca-app-pub-3940256099942544/9257395921",
+      "open_ads_alien":"",
+      "open_ads_max":"",
+      "open_ads_wortise":"",
+      "on_off_native_listview":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "on_off_category":"2"
+    }
+  ],
+  "More":
+  [
+    {
+      "id":1,
+      "title":"Lapak Asik BPJSTKU",
+      "image":"https://play-lh.googleusercontent.com/b57l9KvMs3OCdbNahKRmE98DE8TxxNiYP3q_4vfgditELcOndANmBQAc3oyPGwg-Icc=w240-h480-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.syakbana.lapakasik.ceksaldobpjstk&hl=id&gl=US"
+    },
+    {
+      "id":2,
+      "title":"Koi Fish Live Wallpaper",
+      "image":"https://play-lh.googleusercontent.com/67t94B5vdLFtxfcYG1GkQb-hqx94xP2Hterm6U6GIr6mdNoGGpTcdeQwZU-kViUpkRc=w240-h480-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.koipond.koifish.livewallpaper&hl=id&gl=US"
+    },
+    {
+      "id":3,
+      "title":"Magic 5 Wallpaper",
+      "image":"https://play-lh.googleusercontent.com/92aQEffsB0SjqgkyBIXmMm4mt6bN6I6UEW5O02U2l5Ozyb7PgNhILjXEzyuodJQsUQ=w240-h480-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.syakbana.wallpaper.magic5&hl=id&gl=US"
+    }
+  ],
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Spoon Flower",
+      "image": "https://i.pinimg.com/564x/e1/ba/62/e1ba62e72f90d7d955263c56174f0366.jpg"
+
+    }
+   
+  
+  ],
+
+  "Data":
+  [
+    {
+      "id":1,
+      "name_category": "Spoon Flower",
+      "title":"Spoon Flower",
+      "image":"https://i.pinimg.com/564x/e1/ba/62/e1ba62e72f90d7d955263c56174f0366.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "Spoon Flower",
+      "title": "Spoon Flower",
+      "image": "https://i.pinimg.com/564x/6c/b4/4d/6cb44d856850800b2b97858ac337e47f.jpg"
+    },
+    {
+      "id":3,
+      "name_category": "Spoon Flower",
+      "title":"Spoon Flower",
+      "image":"https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1cd5f075-42da-466b-b00a-8bb7ef66ad32/da9l0sw-5f1c1073-d232-4c10-8385-6176e1d71be2.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvMWNkNWYwNzUtNDJkYS00NjZiLWIwMGEtOGJiN2VmNjZhZDMyXC9kYTlsMHN3LTVmMWMxMDczLWQyMzItNGMxMC04Mzg1LTYxNzZlMWQ3MWJlMi5qcGcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.QqjZ3T5HxGHJ8A3n3lC87BcVcLoXJUZZ1DOWf4MK4Ew"
+    },
+    {
+      "id":4,
+      "name_category": "Spoon Flower",
+      "title":"Spoon Flower",
+      "image":"http://www.123mobilewallpapers.com/wp-content/uploads/2015/09/black_cat_cute_wallpaper.jpg"
+    },
+    {
+      "id":5,
+      "name_category": "Spoon Flower",
+      "title":"Spoon Flower",
+      "image":"https://3diphonewallpaper.com/wp-content/uploads/2018/03/iPhone-Wallpaper-Cute-Puppies-Pictures.jpg"
+    },
+    {
+      "id":6,
+      "name_category": "Spoon Flower",
+      "title":"Spoon Flower",
+      "image":"file:///android_asset/image/Spoon Flower.jpg"
+    },
+{
+      "id":7,
+      "name_category": "Spoon Flower",
+      "title":"Spoon Flower",
+      "image":"https://i.pinimg.com/564x/e1/ba/62/e1ba62e72f90d7d955263c56174f0366.jpg"
+    },
+    {
+      "id": 8,
+      "name_category": "Spoon Flower",
+      "title": "Spoon Flower",
+      "image": "https://i.pinimg.com/564x/6c/b4/4d/6cb44d856850800b2b97858ac337e47f.jpg"
+    },
+    {
+      "id":9,
+      "name_category": "Spoon Flower",
+      "title":"Spoon Flower",
+      "image":"https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1cd5f075-42da-466b-b00a-8bb7ef66ad32/da9l0sw-5f1c1073-d232-4c10-8385-6176e1d71be2.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvMWNkNWYwNzUtNDJkYS00NjZiLWIwMGEtOGJiN2VmNjZhZDMyXC9kYTlsMHN3LTVmMWMxMDczLWQyMzItNGMxMC04Mzg1LTYxNzZlMWQ3MWJlMi5qcGcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.QqjZ3T5HxGHJ8A3n3lC87BcVcLoXJUZZ1DOWf4MK4Ew"
+    },
+    {
+      "id":10,
+      "name_category": "Spoon Flower",
+      "title":"Spoon Flower",
+      "image":"http://www.123mobilewallpapers.com/wp-content/uploads/2015/09/black_cat_cute_wallpaper.jpg"
+    },
+    {
+      "id":11,
+      "name_category": "Spoon Flower",
+      "title":"Spoon Flower",
+      "image":"https://3diphonewallpaper.com/wp-content/uploads/2018/03/iPhone-Wallpaper-Cute-Puppies-Pictures.jpg"
+    },
+    {
+      "id":12,
+      "name_category": "Spoon Flower",
+      "title":"Spoon Flower",
+      "image":"file:///android_asset/image/Spoon Flower.jpg"
+    },
+{
+      "id":13,
+      "name_category": "Spoon Flower",
+      "title":"Spoon Flower",
+      "image":"https://i.pinimg.com/564x/e1/ba/62/e1ba62e72f90d7d955263c56174f0366.jpg"
+    },
+    {
+      "id": 14,
+      "name_category": "Spoon Flower",
+      "title": "Spoon Flower",
+      "image": "https://i.pinimg.com/564x/6c/b4/4d/6cb44d856850800b2b97858ac337e47f.jpg"
+    },
+    {
+      "id":15,
+      "name_category": "Spoon Flower",
+      "title":"Spoon Flower",
+      "image":"https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1cd5f075-42da-466b-b00a-8bb7ef66ad32/da9l0sw-5f1c1073-d232-4c10-8385-6176e1d71be2.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvMWNkNWYwNzUtNDJkYS00NjZiLWIwMGEtOGJiN2VmNjZhZDMyXC9kYTlsMHN3LTVmMWMxMDczLWQyMzItNGMxMC04Mzg1LTYxNzZlMWQ3MWJlMi5qcGcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.QqjZ3T5HxGHJ8A3n3lC87BcVcLoXJUZZ1DOWf4MK4Ew"
+    },
+    {
+      "id":16,
+      "name_category": "Spoon Flower",
+      "title":"Spoon Flower",
+      "image":"http://www.123mobilewallpapers.com/wp-content/uploads/2015/09/black_cat_cute_wallpaper.jpg"
+    },
+    {
+      "id":17,
+      "name_category": "Spoon Flower",
+      "title":"Spoon Flower",
+      "image":"https://3diphonewallpaper.com/wp-content/uploads/2018/03/iPhone-Wallpaper-Cute-Puppies-Pictures.jpg"
+    },
+    {
+      "id":18,
+      "name_category": "Spoon Flower",
+      "title":"Spoon Flower",
+      "image":"file:///android_asset/image/Spoon Flower.jpg"
+    },
+{
+      "id":19,
+      "name_category": "Spoon Flower",
+      "title":"Spoon Flower",
+      "image":"https://i.pinimg.com/564x/e1/ba/62/e1ba62e72f90d7d955263c56174f0366.jpg"
+    },
+    {
+      "id": 20,
+      "name_category": "Spoon Flower",
+      "title": "Spoon Flower",
+      "image": "https://i.pinimg.com/564x/6c/b4/4d/6cb44d856850800b2b97858ac337e47f.jpg"
+    },
+    {
+      "id":21,
+      "name_category": "Spoon Flower",
+      "title":"Spoon Flower",
+      "image":"https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1cd5f075-42da-466b-b00a-8bb7ef66ad32/da9l0sw-5f1c1073-d232-4c10-8385-6176e1d71be2.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvMWNkNWYwNzUtNDJkYS00NjZiLWIwMGEtOGJiN2VmNjZhZDMyXC9kYTlsMHN3LTVmMWMxMDczLWQyMzItNGMxMC04Mzg1LTYxNzZlMWQ3MWJlMi5qcGcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.QqjZ3T5HxGHJ8A3n3lC87BcVcLoXJUZZ1DOWf4MK4Ew"
+    },
+    {
+      "id":22,
+      "name_category": "Spoon Flower",
+      "title":"Spoon Flower",
+      "image":"http://www.123mobilewallpapers.com/wp-content/uploads/2015/09/black_cat_cute_wallpaper.jpg"
+    },
+    {
+      "id":23,
+      "name_category": "Spoon Flower",
+      "title":"Spoon Flower",
+      "image":"https://3diphonewallpaper.com/wp-content/uploads/2018/03/iPhone-Wallpaper-Cute-Puppies-Pictures.jpg"
+    },
+    {
+      "id":24,
+      "name_category": "Spoon Flower",
+      "title":"Spoon Flower",
+      "image":"file:///android_asset/image/Spoon Flower.jpg"
+    },
+{
+      "id":25,
+      "name_category": "Spoon Flower",
+      "title":"Spoon Flower",
+      "image":"https://i.pinimg.com/564x/e1/ba/62/e1ba62e72f90d7d955263c56174f0366.jpg"
+    },
+    {
+      "id":26 ,
+      "name_category": "Spoon Flower",
+      "title": "Spoon Flower",
+      "image": "https://i.pinimg.com/564x/6c/b4/4d/6cb44d856850800b2b97858ac337e47f.jpg"
+    },
+    {
+      "id":27,
+      "name_category": "Spoon Flower",
+      "title":"Spoon Flower",
+      "image":"https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1cd5f075-42da-466b-b00a-8bb7ef66ad32/da9l0sw-5f1c1073-d232-4c10-8385-6176e1d71be2.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvMWNkNWYwNzUtNDJkYS00NjZiLWIwMGEtOGJiN2VmNjZhZDMyXC9kYTlsMHN3LTVmMWMxMDczLWQyMzItNGMxMC04Mzg1LTYxNzZlMWQ3MWJlMi5qcGcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.QqjZ3T5HxGHJ8A3n3lC87BcVcLoXJUZZ1DOWf4MK4Ew"
+    },
+    {
+      "id":28,
+      "name_category": "Spoon Flower",
+      "title":"Spoon Flower",
+      "image":"http://www.123mobilewallpapers.com/wp-content/uploads/2015/09/black_cat_cute_wallpaper.jpg"
+    },
+    {
+      "id":29,
+      "name_category": "Spoon Flower",
+      "title":"Spoon Flower",
+      "image":"https://3diphonewallpaper.com/wp-content/uploads/2018/03/iPhone-Wallpaper-Cute-Puppies-Pictures.jpg"
+    },
+    {
+      "id":30,
+      "name_category": "Spoon Flower",
+      "title":"Spoon Flower",
+      "image":"file:///android_asset/image/Spoon Flower.jpg"
+    },
+{
+      "id":31,
+      "name_category": "Spoon Flower",
+      "title":"Spoon Flower",
+      "image":"https://i.pinimg.com/564x/e1/ba/62/e1ba62e72f90d7d955263c56174f0366.jpg"
+    },
+    {
+      "id":32,
+      "name_category": "Spoon Flower",
+      "title": "Spoon Flower",
+      "image": "https://i.pinimg.com/564x/6c/b4/4d/6cb44d856850800b2b97858ac337e47f.jpg"
+    },
+    {
+      "id":33,
+      "name_category": "Spoon Flower",
+      "title":"Spoon Flower",
+      "image":"https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1cd5f075-42da-466b-b00a-8bb7ef66ad32/da9l0sw-5f1c1073-d232-4c10-8385-6176e1d71be2.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvMWNkNWYwNzUtNDJkYS00NjZiLWIwMGEtOGJiN2VmNjZhZDMyXC9kYTlsMHN3LTVmMWMxMDczLWQyMzItNGMxMC04Mzg1LTYxNzZlMWQ3MWJlMi5qcGcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.QqjZ3T5HxGHJ8A3n3lC87BcVcLoXJUZZ1DOWf4MK4Ew"
+    },
+    {
+      "id":34,
+      "name_category": "Spoon Flower",
+      "title":"Spoon Flower",
+      "image":"http://www.123mobilewallpapers.com/wp-content/uploads/2015/09/black_cat_cute_wallpaper.jpg"
+    },
+    {
+      "id":35,
+      "name_category": "Spoon Flower",
+      "title":"Spoon Flower",
+      "image":"https://3diphonewallpaper.com/wp-content/uploads/2018/03/iPhone-Wallpaper-Cute-Puppies-Pictures.jpg"
+    },
+    {
+      "id":36,
+      "name_category": "Spoon Flower",
+      "title":"Spoon Flower",
+      "image":"file:///android_asset/image/Spoon Flower.jpg"
+    },
+{
+      "id":37,
+      "name_category": "Spoon Flower",
+      "title":"Spoon Flower",
+      "image":"https://i.pinimg.com/564x/e1/ba/62/e1ba62e72f90d7d955263c56174f0366.jpg"
+    },
+    {
+      "id":38,
+      "name_category": "Spoon Flower",
+      "title": "Spoon Flower",
+      "image": "https://i.pinimg.com/564x/6c/b4/4d/6cb44d856850800b2b97858ac337e47f.jpg"
+    },
+    {
+      "id":39,
+      "name_category": "Spoon Flower",
+      "title":"Spoon Flower",
+      "image":"https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1cd5f075-42da-466b-b00a-8bb7ef66ad32/da9l0sw-5f1c1073-d232-4c10-8385-6176e1d71be2.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvMWNkNWYwNzUtNDJkYS00NjZiLWIwMGEtOGJiN2VmNjZhZDMyXC9kYTlsMHN3LTVmMWMxMDczLWQyMzItNGMxMC04Mzg1LTYxNzZlMWQ3MWJlMi5qcGcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.QqjZ3T5HxGHJ8A3n3lC87BcVcLoXJUZZ1DOWf4MK4Ew"
+    },
+    {
+      "id":40,
+      "name_category": "Spoon Flower",
+      "title":"Spoon Flower",
+      "image":"http://www.123mobilewallpapers.com/wp-content/uploads/2015/09/black_cat_cute_wallpaper.jpg"
+    }
+  ]
+}
